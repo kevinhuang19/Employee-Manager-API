@@ -1,3 +1,3 @@
 # Employee-Manager
 
-CRUD using AWS Cloud and Java Spring boot
+CRUD application using AWS Cloud and Java Spring boot
