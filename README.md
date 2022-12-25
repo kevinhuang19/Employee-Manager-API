@@ -8,3 +8,4 @@ Can Input information about an Employee, Read back information, Update informati
 2. Spring Boot
 3. AWS DynamoDB
 4. Insomnia for testing purposes
+5. Repository, Entity, Controller MVC software architecture
